@@ -61,7 +61,6 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
-  overflow: scroll; /*--- */
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
