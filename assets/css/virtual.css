@@ -105,7 +105,8 @@ a:hover, a:active {
 
 /* Image Responsive */
 .img-place {
-    position: relative;
+    /* position: relative; */
+    position: absolute; 
     display: block;
     margin: 0 auto;
     width: 100%;height: 100%;
